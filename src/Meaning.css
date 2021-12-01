@@ -3,4 +3,9 @@ body {
 }
 .Meaning {
   margin: 50px auto;
+  background-color: white;
+  border-radius: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+  border: 1px solid black;
 }
