@@ -1,3 +1,8 @@
 h2 {
   text-align: center;
 }
+.result {
+  background-color: burlywood;
+  margin: 10px 35% 0px 35%;
+  border-radius: 30px;
+}
