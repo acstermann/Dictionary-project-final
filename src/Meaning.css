@@ -2,10 +2,9 @@ body {
   text-align: center;
 }
 .Meaning {
-  margin: 50px auto;
-  background-color: white;
-  border-radius: 30px;
-  margin-left: 5%;
-  margin-right: 5%;
-  border: 1px solid black;
+  background: white;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+  margin: 20px 0;
 }
