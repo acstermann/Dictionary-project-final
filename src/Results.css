@@ -2,7 +2,10 @@ h2 {
   text-align: center;
 }
 .result {
-  background-color: rgba(255, 228, 196, 0.6);
-  margin: 20px 35% 0px 35%;
+  margin: 50px auto;
+  background-color: white;
   border-radius: 30px;
+  margin-left: 30%;
+  margin-right: 30%;
+  border: 1px solid black;
 }
