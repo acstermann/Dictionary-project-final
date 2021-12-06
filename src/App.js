@@ -10,7 +10,7 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
-          <Dictionary defaultKeyWord="sunset" />
+          <Dictionary defaultKeyWord="winter" />
         </main>
         <footer className="App-footer">
           <a href="https://github.com/acstermann/Dictionary-project-final">
